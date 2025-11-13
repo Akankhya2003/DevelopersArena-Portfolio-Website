@@ -1,2 +1,16 @@
-# DevelopersArena-Portfolio-Website
-Personal Portfolio Website built during DevelopersArena Internship using HTML &amp; CSS.
+# 🌐 Personal Portfolio Website - DevelopersArena Internship
+
+This is my responsive personal portfolio website created during my **DevelopersArena Internship** using **HTML & CSS** only.
+
+## 🚀 Features
+- Responsive design for all devices
+- About Me, Projects, and Contact sections
+- Includes my Online Web Quiz App project
+- Simple and elegant design
+
+## 💻 Technologies Used
+- HTML5
+- CSS3
+
+## 🔗 Live Demo
+[View Website](https://yourusername.github.io/DevelopersArena-Portfolio/)
