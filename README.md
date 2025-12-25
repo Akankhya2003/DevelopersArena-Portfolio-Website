@@ -11,6 +11,4 @@ This is my responsive personal portfolio website created during my **DevelopersA
 ## 💻 Technologies Used
 - HTML5
 - CSS3
-
-## 🔗 Live Demo
-[View Website](https://akankhya2003.github.io/DevelopersArena-Portfolio-Website/)
+- JS
